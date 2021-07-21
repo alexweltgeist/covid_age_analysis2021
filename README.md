@@ -1,4 +1,6 @@
-# Kurzanalyse der Covid Situation in der Schweiz im Juli 2021
+# Covid CH 2021
 
-* basierend auf den Altersgruppen
+Kurzanalyse der Covid Situation in der Schweiz im Juli 2021
+
+* basierend auf Altersgruppen
 * unter Einbezug der Impfungen
